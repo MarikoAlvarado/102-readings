@@ -23,7 +23,7 @@
 
 [11:Assorted Topics]()
 
-[12:Docs for the HTML <canvas> Element & Chart.js]()
+[12:Docs for the HTML **Canvas** Element & Chart.js]()
   
 [13:Local Storage]()
 
