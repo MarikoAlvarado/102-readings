@@ -1,4 +1,4 @@
-# [HOME](README.md)
+### [HOME](README.md)
 
 # Introduction to HTML and Javascript Reading Notes
 
