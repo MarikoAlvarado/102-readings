@@ -224,3 +224,5 @@ Javascript is written in plain text like HTML and CSS.
 - together it shows as *document. write('message here);*
 
 JS code is embedded directly into the HTML code.
+
+### [HOME](README.md)
