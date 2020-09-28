@@ -2,7 +2,7 @@
 
 I am a student at Code Fellows, this is where I will sharing my notes and projects for Code 201!
 
-[01:Introductory HTML and JS](/intro-htmljs/README.md)
+[01:Introductory HTML and JS](class-01.md)
 
 [02:HTML Text,CSS Intro and Basic JS Instructions]()
 
