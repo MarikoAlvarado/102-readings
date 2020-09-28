@@ -79,7 +79,7 @@ Extra JS needs to be installed in Internet Explorers 8 and older in order for th
 - *how often do I need to update my website?*
 - Do I need to include a nav bar? How should I organize the site into sections or pages while maintaing focus on the goals?
 
-#### Creating a wireframe for my website
+##### Creating a wireframe for my website
 
 ##### Where to start?
 
