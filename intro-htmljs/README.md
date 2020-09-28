@@ -79,23 +79,23 @@ Extra JS needs to be installed in Internet Explorers 8 and older in order for th
 - *how often do I need to update my website?*
 - Do I need to include a nav bar? How should I organize the site into sections or pages while maintaing focus on the goals?
 
-##### Creating a wireframe for my website
+#### Creating a wireframe for my website
 
-###### Where to start?
+##### Where to start?
 
 - Make a sketch of how the site should appear
 - Where are my headings? Subheadings?
 - Where will I place the bodies of text?
 - Will there be photos?
 
-###### When making the rough draft/basic layout
+##### When making the rough draft/basic layout
 
 - header
 - footer
 - main 
 - mian+body= the content which shows 
 
-###### Consider the visual design to help get the message across
+##### Consider the visual design to help get the message across
 
 - Logos?
 - Nav bar?
@@ -103,7 +103,7 @@ Extra JS needs to be installed in Internet Explorers 8 and older in order for th
 - Subscription/Comment boxes?
 - Links to related content?
 
-###### Navigation needs to be...
+##### Navigation needs to be...
 
 - Concise
 - Clear
@@ -112,22 +112,22 @@ Extra JS needs to be installed in Internet Explorers 8 and older in order for th
 - Interactive
 - *CONSISTENCY*
 
-###### Be sure to prioritize content of website
+##### Be sure to prioritize content of website
 
 - Make sure the main messages can stand out. Some parts of the webbpage should look distinct in comparison to other parts of the page. Creat a *visual hierarchy* to help draw and keep the attention of visitors.
 
-###### Visual hierarchy
+##### Visual hierarchy
 
 - Size
 - Color
 - Style
 - Visual contrast
 
-###### How should it all be organized?
+##### How should it all be organized?
 
 - *Group* together pieces of content which relate by making *blocks* or *chunks*. It should be easy for visitors to identify each group and the information within it. Be mindful of appearance and maintain a visual style.
 
-###### Grouping and consistent visual style
+##### Grouping and consistent visual style
 
 - Proximity
 - Closure
