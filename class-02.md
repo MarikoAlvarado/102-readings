@@ -157,7 +157,7 @@ for values:
 
 **check example on (pages 78-79)**
 
-# Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)
+# Chapter 4: “Decisions and Loops” (pp.145-162)
 
 ## Comparison and Logical Operators
 
@@ -173,3 +173,23 @@ for values:
 
 - *<= or >=*
 
+### Structuring Comparison Operators
+
+operands are place on the side of the comparison operator
+**this example, suing *>* as operator and *time and fail* as operands:**
+(time > fail)
+
+### Expressions Using Comparison Operators
+
+operands are enclosed by parenthesis and on the sides of comparison operator
+**example:**
+(time + fail)>=(time1 + fail)
+
+### Logical Operators
+Can compare results of more than one comparison operator by:
+
+- && *to test more than one condition*
+
+- || *to test at least one of the conditions, resulting in all as either true or false*
+
+- ! *inverts a single boolean, if !true return false, if !false return true*
