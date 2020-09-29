@@ -33,7 +33,7 @@
 | < del >       | show deleted text from dcmnt         |
 | < s >         | indicates what is no longer relevant |
 
-# Duckett: HTML&CSS CH10:Introducing CSS
+# Duckett HTML book Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)
 
 ## What's CSS?
 
@@ -44,15 +44,13 @@ There are different types of CSS selectors which allow you to direct *specific* 
 
 **Declarations** are made up by both element properties and the *value* of properties to be changed.
 
-## Duckett: HTML&CSS CH11:Color
-
-### Color and its importance
+## Color
 
 - every color we see on the devices we use are made up by different mixes of red, blue and green or **RGB**
 
 - Individual pixels in our screens can be a different color
 
-#### Values
+## Values
 
 - *RGB* values are values expressed by number for the amount of how much red, green and blue are used
 
@@ -61,4 +59,117 @@ There are different types of CSS selectors which allow you to direct *specific* 
 - *Color names* express colors simply by naming them
 
 - *Hue* , *saturation* and *brightness* are how much gray, black and shade are present of a color
+
+# Duckett JS book: Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
+
+**Statements** are individual instructions which make up a script ending with **;**
+
+- *green* is the statement
+
+- *pink* indicate start & end of the codeblock
+
+- *purple* determines which code should run
+
+**Comments** describe for you and others what the code does
+
+- *green* JS code
+
+- *pink* multiple lines of *comments*
+
+- *gray* single line of *comments*
+
+## Variables
+
+Variables are where a scripts data is stored. Data within variables can 'calculate' or 'compute' numbers or other types of data.
+
+**declaring a variable** = *var quantity = 1;*
+
+**numeric data** = *0.45*
+
+**string type data** = *'what is up!'*
+
+**BOOLEAN data** = *true* or *false*
+
+- Variables can store strings which are placed inside of either single or double quotes
+
+- *if using single quotes in the string, surround the entire string and the single quotes with double quotes OR the other way around* 
+
+## Naming Variables
+
+1. Must begin with a letter *$* or **_** - no numbers!
+
+2. Name can contain the same as above but no **-** or **.**
+
+3. No keywords or eserved words (words to be used in the future)
+
+4. Variables are case sensitive! 
+
+5. use a name that describes the information example: **myName**
+
+6. If name is made of more than one word, separate with an uppercase letter after first word as shown above
+
+## Arrays
+
+Arrays store a *list* of values. 
+Best used for:
+- lists
+- related values
+**shopping list example** (pages 70-71)
+
+for values:
+- number items
+- retrieve items by using variable with value set to a specified item in array
+- *lengths* hold number of items in array
+
+### Expressions
+
+**expressions result in a single value**
+
+1. Assign a value to a variable **var color = 'black';**
+
+2. A variable might use more that one value to result in a single value **var area = 2 * 400;**
+
+### Operators
+
+*expressions **need** operators which let creators get a single value from one or more values
+
+- Combining strings
+
+- Computing Basic Match
+
+- Comparison operators
+
+- Logical operators
+
+**Arithmetic Operators**
+
+- Addition **+** or Subtraction **-**
+
+- Division **/** or Multiplication **(*)**
+
+- Increments **++** or Decrements **--** either adding one or subtracting one
+
+- Modulus **%** Dividing two values and giving back the remainder
+
+**String Operators**
+
+- you can join together two or more strings using **+** 
+
+**check example on (pages 78-79)**
+
+# Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)
+
+## Comparison and Logical Operators
+
+- == *is equal to* for numbers, strings or booleans
+
+- != *is not equal to* for numbers, strings or booleans
+
+- === *strict equal to* check if data type and values are same
+
+- !== *strict not equal to* check that data type and values are **not** the same
+
+- *< or >*
+
+- *<= or >=*
 
