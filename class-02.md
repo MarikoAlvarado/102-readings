@@ -192,4 +192,4 @@ Can compare results of more than one comparison operator by:
 
 - || *to test at least one of the conditions, resulting in all as either true or false*
 
-- ! *inverts a single boolean, if !true return false, if !false return true*
+- ! *inverts a single boolean, if !true returns false, if !false returns true*
