@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-=======
+### [HOME](README.md)
+
 # Duckett HTML book: Chapter 2: “Text” (pp.40-610)
 
 ## Cheat Sheet for Markup Elements and Tags
@@ -195,4 +195,6 @@ Can compare results of more than one comparison operator by:
 - || *to test at least one of the conditions, resulting in all as either true or false*
 
 - ! *inverts a single boolean, if !true returns false, if !false returns true*
->>>>>>> ece0d0f0c69735faca4a79ff81477044aa6ced4f
+
+
+### [HOME](README.md)
