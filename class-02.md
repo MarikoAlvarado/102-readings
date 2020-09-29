@@ -6,7 +6,7 @@
 
 | Element/Tag | Result      |
 |-------------|------------ |
-| <h1>-<h6>   | Headings    |
+|< h1 > - <h6>| Headings    |
 | <p>         | Paragraph   |
 | <b>         | Bold        |
 | <i>         | Italic      |
