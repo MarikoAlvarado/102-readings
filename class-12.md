@@ -51,7 +51,7 @@ The **coordinate space**/**grid** uses ``(x,y)`` coordinates for position and ro
 
 [refer to drawing principles](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
 
-# [Aplly Styles and Colors]{https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors}
+# [Apply Styles and Colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
 
 - Colors = string representing CSS color
 - Transparency = draw semi-transparent shapes by setting ``globalAlpha`` propery or assigning style using **RGBA**
