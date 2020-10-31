@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
 
-I am a student at Code Fellows, this is where I will sharing my notes and projects for Code 201!
+## Table of Contents
 
 [01:Introductory HTML and JS](class-01.md)
 

@@ -1,7 +1,4 @@
-
-# Welcome to my site!
-
-My name is Mariko and I am a student at Code Fellows. This is where I will be documenting my notes from assigned readings and projects throughout Code102!
+# 102 Reading Notes
 
 ## Table of Contents
 
