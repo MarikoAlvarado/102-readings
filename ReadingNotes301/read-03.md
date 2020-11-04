@@ -35,7 +35,7 @@ returns: Hello, Sherlynn
 | `align-self`     |
 
 
-## [Flexbox Froggy Excercise](Flexbox Froggy)
+## [Flexbox Froggy Excercise](https://flexboxfroggy.com/)
 
 **completed steps of tutorial**
 
