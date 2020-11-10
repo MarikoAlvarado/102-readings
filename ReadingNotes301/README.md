@@ -13,3 +13,5 @@
 [Reading05:Heroku:Getting Started With Node](read-05.md)
 
 [Reading06: Node.js](read-06.md)
+
+[Reading07: REST](read-07.md)
