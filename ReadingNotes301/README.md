@@ -15,3 +15,5 @@
 [Reading06: Node.js](read-06.md)
 
 [Reading07: REST](read-07.md)
+
+[Reading08: SQL](read-08.md)
