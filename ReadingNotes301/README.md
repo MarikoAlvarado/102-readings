@@ -17,3 +17,5 @@
 [Reading07: REST](read-07.md)
 
 [Reading08: SQL](read-08.md)
+
+[Reading10: CALL STACK & ERRORS](read-10.md)
