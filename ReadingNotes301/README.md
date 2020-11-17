@@ -21,3 +21,5 @@
 [Reading10: CALL STACK & ERRORS](read-10.md)
 
 [Reading11: EJS](read-11.md)
+
+[Reading12: EJS Partials](read-12.md)
