@@ -25,3 +25,5 @@
 [Reading12: EJS Partials](read-12.md)
 
 [Reading13: Sending Form Data](read-13.md)
+
+[Reading14: DB Normalization](read-14a.md)
