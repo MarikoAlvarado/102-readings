@@ -27,3 +27,5 @@
 [Reading13: Sending Form Data](read-13.md)
 
 [Reading14: DB Normalization](read-14a.md)
+
+[Reading15: Diversity and Inclusion](read-15.md)
