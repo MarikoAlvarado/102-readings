@@ -1,1 +1,0 @@
-[How to Solve Programming Problems](https://simpleprogrammer.com/solving-problems-breaking-it-down/)
