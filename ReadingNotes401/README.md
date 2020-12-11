@@ -7,3 +7,5 @@
 [Reading02: Express](read-02.md)
 
 [Reading03: Express REST API](read-03.md)
+
+[Reading04: Data Modeling](read-04.md)
