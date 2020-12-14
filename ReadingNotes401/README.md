@@ -9,3 +9,5 @@
 [Reading03: Express REST API](read-03.md)
 
 [Reading04: Data Modeling](read-04.md)
+
+[Reading06: Authentication](read-06.md)
