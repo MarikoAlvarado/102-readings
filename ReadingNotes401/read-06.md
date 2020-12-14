@@ -46,7 +46,7 @@ Implementing linked lists in our labs/project
 
 ## [Securing Passwords](https://thehackernews.com/2014/04/securing-passwords-with-bcrypt-hashing.html)
 
-Cryptographics - Hash algorithms used to take in large amounts of data as wuickly as possible.
+Cryptographics - Hash algorithms used to take in large amounts of data as quickly as possible.
 
 Hashing - Keeps hackers from having access to stored passwords in plain text.
 
@@ -72,7 +72,7 @@ Client side - sending authentication credentials from User -> Server:
   - result = string encoded as Base64
   - Authorization *method* + *`<space>`* is *prepended* to encoded string.
 
-URL Encoding - Prepending `username:pass` to hostname in url. For basic authorization. **no go** and unsupported by modern browsers, keeping password from being sent and seen as plain text.
+URL Encoding - Prepending `username:pass` to hostname in url. For basic authorization. **no go** and unsupported by modern browsers, keeping passwords from being sent and seen as plain text.
 
 **BOOKMARKED**
 
