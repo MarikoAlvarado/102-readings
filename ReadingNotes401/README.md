@@ -11,3 +11,5 @@
 [Reading04: Data Modeling](read-04.md)
 
 [Reading06: Authentication](read-06.md)
+
+[Reading07: Authorization](read-07.md)
