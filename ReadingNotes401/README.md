@@ -21,3 +21,5 @@
 [Reading10: Event Driven Applications](read-10.md)
 
 [Reading11: Socket.io](read-11.md)
+
+[Reading12: Message Queues](read-12.md)
