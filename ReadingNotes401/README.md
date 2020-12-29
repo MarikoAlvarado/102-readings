@@ -29,3 +29,5 @@
 [TREES](trees.md)
 
 [Reading16: AWS: Cloud Servers](read-16.md)
+
+[Reading17: AWS: S3 and Lambda](read-17.md)
