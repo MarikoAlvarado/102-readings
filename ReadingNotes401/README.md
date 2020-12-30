@@ -32,4 +32,4 @@
 
 [Reading17: AWS: S3 and Lambda](read-17.md)
 
-[Reading17: AWS: API, Dynamo](read-18.md)
+[Reading18: AWS: API, Dynamo](read-18.md)
