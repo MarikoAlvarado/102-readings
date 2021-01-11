@@ -33,3 +33,5 @@
 [Reading17: AWS: S3 and Lambda](read-17.md)
 
 [Reading18: AWS: API, Dynamo](read-18.md)
+
+[Reading26: Component Based UI](read-26.md)
