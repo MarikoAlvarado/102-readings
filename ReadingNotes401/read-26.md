@@ -9,7 +9,7 @@
   [src](https://www.sitepoint.com/javascript-ui-frameworks/)
 2. What’s the difference between a framework and a library?
 
-A library is only used when and where you call for it while a framework inverts the control of the program allowing less control over the code for the creator.[src](https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/)
+A library is only used when and where you call for it while a framework inverts the control of the program allowing less control over the code for the creator. A framework is a collection of libraries.[src](https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/)
 
 **Rendering** - Gathering data to load to a template it associated with and sending it as an output on the client side.[src](https://stackoverflow.com/questions/16518951/rendering-in-context-of-web-development)
 

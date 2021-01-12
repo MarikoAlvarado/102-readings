@@ -35,3 +35,5 @@
 [Reading18: AWS: API, Dynamo](read-18.md)
 
 [Reading26: Component Based UI](read-26.md)
+
+[Reading27: Props and State](read-27.md)
