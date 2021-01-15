@@ -39,3 +39,5 @@
 [Reading27: Props and State](read-27.md)
 
 [Reading28: Component Composition](read-28.md)
+
+[Reading29: Routing](read-29.md)
