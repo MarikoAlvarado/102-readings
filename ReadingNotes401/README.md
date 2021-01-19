@@ -41,3 +41,5 @@
 [Reading28: Component Composition](read-28.md)
 
 [Reading29: Routing](read-29.md)
+
+[Reading31: Hooks API](read-31.md)
